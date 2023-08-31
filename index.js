@@ -45,7 +45,7 @@ function newImage(path,left,bottom){
 // Pinetree.style.bottom = '200px'
 // document.body.append(Pinetree)
 
-//Inviked function newImage()
+//Invoked function newImage()
 newImage('assets/green-character.gif',100,100)
 newImage('assets/pine-tree.png',450,200)
 newImage('assets/tree.png',200,300)
@@ -53,7 +53,7 @@ newImage('assets/pillar.png',350,100)
 newImage('assets/crate.png',150,200)
 newImage('assets/well.png',500,425)
 
-// //add sward iamge to the page
+// //add sword image to the page
 // let sword=document.createElement('img')
 // sword.src='assets/sword.png'
 // sword.position='fixed'
